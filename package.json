@@ -1,0 +1,15 @@
+{
+  "name": "lucahome",
+  "version": "1.0.0",
+  "description": "我的主页",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "yu xuan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
